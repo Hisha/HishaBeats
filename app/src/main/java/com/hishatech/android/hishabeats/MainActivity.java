@@ -30,7 +30,7 @@ public class MainActivity extends ActionBarActivity {
                 Intent Aboutintent = new Intent(this, AboutActivity.class);
                 this.startActivity(Aboutintent);
                 break;
-            
+
         }
         return false; // should never happen
     }
