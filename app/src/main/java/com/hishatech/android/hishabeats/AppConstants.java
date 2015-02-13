@@ -5,6 +5,9 @@ package com.hishatech.android.hishabeats;
  */
 public class AppConstants {
 
+    public static final String frag_ButtonAction = "Action";
+    public static final String frag_ButtonColor = "Color";
+
     public static final String pref_name = "HB_Prefs";
     public static final String pref_btnC0R0 = "C0R0";
     public static final String default_btnC0R0 = "";

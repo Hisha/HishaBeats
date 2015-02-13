@@ -12,5 +12,8 @@
     <!-- About Activity Related -->
     <string name="aboutAct">About</string>
 
+    <!-- Button Settings Activity Related -->
+    <string name="buttonsettingsAct">Button Settings</string>
+
 
 </resources>
